@@ -1,38 +1,40 @@
-data:[{
 {
-  "device":"0",
-    "bar": "7.5",
-    "temp": "88",
-    "runOperation": "repeat",
-    "runMode": "dual",
-    "runOrStop": "run",
-    "loadOrUnload": "load",
-    "warningStatus": "0",
-    "errorStatus1": "0",
-    "errorStatus2": "0",
-    "totalRunTime": "61173",
-    "loadTime": "217",
-  "request_time":"2023-11-20 15:15:11",
-    "process_time":"2023-11-20 15:27:14",
-  "reuest":"0",
-  "result":"0"
+  "data": [
+    {
+      "device": "0",
+      "bar": "7.5",
+      "temp": "88",
+      "runOperation": "repeat",
+      "runMode": "dual",
+      "runOrStop": "run",
+      "loadOrUnload": "load",
+      "warningStatus": "0",
+      "errorStatus1": "0",
+      "errorStatus2": "0",
+      "totalRunTime": "61173",
+      "loadTime": "217",
+      "request_time": "2023-11-20 15:15:11",
+      "process_time": "2023-11-20 15:27:14",
+      "request": "0",
+      "result": "0"
+    },
+    {
+      "device": "1",
+      "bar": 0.7,
+      "temp": 13,
+      "runOperation": "repeat",
+      "runMode": "local",
+      "runOrStop": "stop",
+      "loadOrUnload": "load",
+      "warningStatus": "0",
+      "errorStatus1": "0",
+      "errorStatus2": "0",
+      "totalRunTime": 15413,
+      "loadTime": 5413,
+      "request_time": "2023-11-20 15:15:11",
+      "process_time": "2023-11-20 15:27:14",
+      "request": "0",
+      "result": "0"
+    }
+  ]
 }
-,{
-    "device":"1",
-    "bar": 0.7,
-    "temp": 13,
-    "runOperation": "repeat",
-    "runMode": "local",
-    "runOrStop": "stop",
-    "loadOrUnload": "load",
-    "warningStatus": "0",
-    "errorStatus1": "0",
-    "errorStatus2": "0",
-    "totalRunTime": 15413,
-    "loadTime": 5413
-    "request_time":"2023-11-20 15:15:11",
-    "process_time":"2023-11-20 15:27:14",
-  "reuest":"0",
-  "result":"0"
-}
-}]
